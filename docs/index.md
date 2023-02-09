@@ -1,10 +1,10 @@
-# Nearby Salesforce Mapping Application
+# Notes Manager Salesforce Application
 
-Nearby is a Salesforce application designed to make the use of geoencoded records available and discoverable.
+Notes Manager is a tool that will allow you to tag, search, and quickly related notes to other objects in Salesforce.
 
 - [Quick Start Guide](quick-start-guide.md)
-- [Features](features.md)
-- [Advanced Configuration](advanced-config.md)
+- [Features](features.md) <!-- [Advanced Configuration](advanced-config.md)-->
+
 - [Troubleshooting](troubleshooting.md)
 - [Release Notes](release-notes.md)
 

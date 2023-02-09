@@ -4,7 +4,7 @@
 
 You will need to assign the NotesApplicationUser permissions et to any user that needs to view and use the Note Manager Component
 
-![Quick Start Permission Set Assingment](images/qs-permissionset-1.png)
+![Quick Start Permission Set Assignment](images/qs-permissionset-1.png)
 
 ## Add Notes Manager to Lightning App or Lightning Page
 

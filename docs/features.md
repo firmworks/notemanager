@@ -9,6 +9,18 @@
 
 ## Tagging Notes
 
+Tag your Notes with helpful information to find them later.
+
+![Features Tagging](images/features/features-tagging.png)
+
 ## Search Notes
 
-## Create a Connection
+Search all of you Notes using text, title, or tags.
+
+![Features Tagging](images/features/features-search.png)
+
+## Create a Connections
+
+Link your Notes to any record in you Salesforce org.
+
+![Features Tagging](images/features/features-related.png)
