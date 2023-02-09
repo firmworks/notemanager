@@ -1,2 +1,2 @@
-# nearby
-Public Nearby documentation
+# notesmanager
+Public Notes Manager documentation
