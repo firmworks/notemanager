@@ -43,7 +43,7 @@ To interact with any object related to the notes you create, click the Related b
 
 ## Setup Notes Manager Configuration
 
-If you want to show your notes tags on the component you will need to setup a configuration.
+If you want to show tags on the component you will need to setup a configuration.
 
 To create a new configuration navigate to customer metadata in Salesforce Setup. Setup -> Custom Metadata Types -> Note Manager Configuration -> Manage -> New
 
