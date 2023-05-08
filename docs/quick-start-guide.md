@@ -1,3 +1,5 @@
+[Back To Home](index.md)
+
 # Quick Start
 
 ## Assign NoteManager Permission Set
